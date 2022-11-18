@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning CCNA, CND, CEH, CSCU, CHFI && eCSA
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me on Instagram "Broken_Graduate"
+-    I'm a Cyber Security researcher
 
 <!---
 MrDark-X/MrDark-X is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

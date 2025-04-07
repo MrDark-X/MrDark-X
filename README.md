@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MrDark-X
+- 👋 Hi, I’m Yaswanth Surya Chalamalasetty
 - 👀 I’m interested in Ethical hacking && CTF's
 - 🌱 I’m currently learning CCNA, CND, CEH, CSCU, CHFI && eCSA
 - 💞️ I’m looking to collaborate on ...
